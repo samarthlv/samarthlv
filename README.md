@@ -16,7 +16,7 @@ This profile is where I share my verification projects, UVM environments, RTL de
 - Constrained Random Verification (CRV), SVA, Functional Coverage  
 - Synopsys VCS, Verdi, QuestaSim  
 - GTKWave, Icarus Verilog  
-- Linux, Shell Scripting  
+  
 
 ---
 
